@@ -1,0 +1,17 @@
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\obj\Debug\TestPdfFileAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\obj\Debug\TestPdfFileAnalyzer.AnalysisScreen.resources
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\obj\Debug\TestPdfFileAnalyzer.DisplayText.resources
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\obj\Debug\TestPdfFileAnalyzer.Password.resources
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\obj\Debug\TestPdfFileAnalyzer.Properties.Resources.resources
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\obj\Debug\TestPdfFileAnalyzer.RecentFilesSelector.resources
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\obj\Debug\TestPdfFileAnalyzer.TestPdfFileAnalyzer.resources
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\obj\Debug\TestPdfFileAnalyzer.csproj.GenerateResource.cache
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\obj\Debug\TestPdfFileAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\bin\Debug\TestPdfFileAnalyzer.exe.config
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\bin\Debug\TestPdfFileAnalyzer.exe
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\bin\Debug\TestPdfFileAnalyzer.pdb
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\bin\Debug\PdfFileAnalyzer.dll
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\bin\Debug\PdfFileAnalyzer.pdb
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\obj\Debug\TestPdfFileAnalyzer.csproj.CopyComplete
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\obj\Debug\TestPdfFileAnalyzer.exe
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\TestPdfFileAnalyzer\obj\Debug\TestPdfFileAnalyzer.pdb

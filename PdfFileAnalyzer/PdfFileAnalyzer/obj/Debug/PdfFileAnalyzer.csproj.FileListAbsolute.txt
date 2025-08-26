@@ -1,0 +1,6 @@
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\PdfFileAnalyzer\obj\Debug\PdfFileAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\PdfFileAnalyzer\obj\Debug\PdfFileAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\PdfFileAnalyzer\bin\Debug\PdfFileAnalyzer.dll
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\PdfFileAnalyzer\bin\Debug\PdfFileAnalyzer.pdb
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\PdfFileAnalyzer\obj\Debug\PdfFileAnalyzer.dll
+C:\Users\Kseroff\source\repos\PdfFileAnalyzer\PdfFileAnalyzer\obj\Debug\PdfFileAnalyzer.pdb
